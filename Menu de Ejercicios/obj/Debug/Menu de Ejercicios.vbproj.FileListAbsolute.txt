@@ -1,0 +1,13 @@
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe.config
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.pdb
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.xml
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Algoritmo_de_dos_numeros.resources
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu.resources
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Resources.resources
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.exe
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.xml
+C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.pdb
