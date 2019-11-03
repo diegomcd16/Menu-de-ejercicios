@@ -11,3 +11,50 @@ C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de 
 C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.exe
 C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.xml
 C:\Users\SAMSUNG\Desktop\Jadan_Diego_Cortes_D-Grupo2\Menu de Ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.pdb
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe.config
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.pdb
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.xml
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbprojAssemblyReference.cache
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Algoritmo_de_dos_numeros.resources
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu.resources
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Resources.resources
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.GenerateResource.cache
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.exe
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.xml
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.pdb
+C:\Users\ogeid\Documents\repositorios\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calculo_del_Tiempo.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe.config
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.pdb
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.xml
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbprojAssemblyReference.cache
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Algoritmo_de_dos_numeros.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Area_de_una_circunferencia.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calculo_del_Tiempo.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Resources.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Perimetro_de_un_Terreno.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.GenerateResource.cache
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.exe
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.xml
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.pdb
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.elMayor.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Dos_num_en_forma_descendente.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Oeracion_con_2_numeros.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.numero_Mayor_Menor_Igual_a_cero.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Numero_Medio.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.menu_de_operaciones.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu_estructura__anidada.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu_estructura_multiplescasos.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Signos_del_Zodiaco.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.SigZod_estructura_Anidada.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.SigZod_Estructura_MultiplesCasos.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.meses_Estructura_Anidada.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Mes_correspondiente.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.mese_estructura_MultiplesCasos.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Calificaciones.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calificaciones_estructura_anidada.resources
+C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calificaciones_estructura_MultiplesCasos.resources

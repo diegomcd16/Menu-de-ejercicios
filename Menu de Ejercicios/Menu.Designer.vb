@@ -36,11 +36,6 @@ Partial Class Menu
         Me.ToolStripMenuItem7 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem8 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem9 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.MULTIPLESCASOSToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.MenuDeOperacionesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.SignosDelZodiacoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ToolStripMenuItem10 = New System.Windows.Forms.ToolStripMenuItem()
-        Me.SignificadoDeUnaCalificacionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.REPETITIVOSToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ESTRUCTURAMIENTRASToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ProductoDeUnNumeroNToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -55,6 +50,11 @@ Partial Class Menu
         Me.ImpresioDeToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripMenuItem16 = New System.Windows.Forms.ToolStripMenuItem()
         Me.SALIRToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MULTIPLESCASOSToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MenuDeOperacionesToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.SignosDelZodiacoToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MesesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.SignificadoDeUnaCalificacionToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -106,7 +106,7 @@ Partial Class Menu
         '
         'CONDICIONALESToolStripMenuItem
         '
-        Me.CONDICIONALESToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeToolStripMenuItem, Me.MULTIPLESCASOSToolStripMenuItem})
+        Me.CONDICIONALESToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeToolStripMenuItem, Me.MULTIPLESCASOSToolStripMenuItem1})
         Me.CONDICIONALESToolStripMenuItem.Name = "CONDICIONALESToolStripMenuItem"
         Me.CONDICIONALESToolStripMenuItem.Size = New System.Drawing.Size(111, 20)
         Me.CONDICIONALESToolStripMenuItem.Text = "CONDICIONALES"
@@ -147,37 +147,6 @@ Partial Class Menu
         Me.ToolStripMenuItem9.Name = "ToolStripMenuItem9"
         Me.ToolStripMenuItem9.Size = New System.Drawing.Size(281, 22)
         Me.ToolStripMenuItem9.Text = "5.Numero Medio"
-        '
-        'MULTIPLESCASOSToolStripMenuItem
-        '
-        Me.MULTIPLESCASOSToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuDeOperacionesToolStripMenuItem, Me.SignosDelZodiacoToolStripMenuItem, Me.ToolStripMenuItem10, Me.SignificadoDeUnaCalificacionToolStripMenuItem})
-        Me.MULTIPLESCASOSToolStripMenuItem.Name = "MULTIPLESCASOSToolStripMenuItem"
-        Me.MULTIPLESCASOSToolStripMenuItem.Size = New System.Drawing.Size(282, 22)
-        Me.MULTIPLESCASOSToolStripMenuItem.Text = "MULTIPLES CASOS"
-        '
-        'MenuDeOperacionesToolStripMenuItem
-        '
-        Me.MenuDeOperacionesToolStripMenuItem.Name = "MenuDeOperacionesToolStripMenuItem"
-        Me.MenuDeOperacionesToolStripMenuItem.Size = New System.Drawing.Size(244, 22)
-        Me.MenuDeOperacionesToolStripMenuItem.Text = "1.Menu de operaciones"
-        '
-        'SignosDelZodiacoToolStripMenuItem
-        '
-        Me.SignosDelZodiacoToolStripMenuItem.Name = "SignosDelZodiacoToolStripMenuItem"
-        Me.SignosDelZodiacoToolStripMenuItem.Size = New System.Drawing.Size(244, 22)
-        Me.SignosDelZodiacoToolStripMenuItem.Text = "2.Signos del Zodiaco"
-        '
-        'ToolStripMenuItem10
-        '
-        Me.ToolStripMenuItem10.Name = "ToolStripMenuItem10"
-        Me.ToolStripMenuItem10.Size = New System.Drawing.Size(244, 22)
-        Me.ToolStripMenuItem10.Text = "3.Meses"
-        '
-        'SignificadoDeUnaCalificacionToolStripMenuItem
-        '
-        Me.SignificadoDeUnaCalificacionToolStripMenuItem.Name = "SignificadoDeUnaCalificacionToolStripMenuItem"
-        Me.SignificadoDeUnaCalificacionToolStripMenuItem.Size = New System.Drawing.Size(244, 22)
-        Me.SignificadoDeUnaCalificacionToolStripMenuItem.Text = "4.Significado de una calificacion"
         '
         'REPETITIVOSToolStripMenuItem
         '
@@ -246,26 +215,57 @@ Partial Class Menu
         'ToolStripMenuItem15
         '
         Me.ToolStripMenuItem15.Name = "ToolStripMenuItem15"
-        Me.ToolStripMenuItem15.Size = New System.Drawing.Size(316, 22)
-        Me.ToolStripMenuItem15.Text = "1.suma y promedio de dos numeros"
+        Me.ToolStripMenuItem15.Size = New System.Drawing.Size(323, 22)
+        Me.ToolStripMenuItem15.Text = "1.Suma y Promedio de dos numeros"
         '
         'ImpresioDeToolStripMenuItem
         '
         Me.ImpresioDeToolStripMenuItem.Name = "ImpresioDeToolStripMenuItem"
-        Me.ImpresioDeToolStripMenuItem.Size = New System.Drawing.Size(316, 22)
-        Me.ImpresioDeToolStripMenuItem.Text = "2.impresio de numeros en forma descendente"
+        Me.ImpresioDeToolStripMenuItem.Size = New System.Drawing.Size(323, 22)
+        Me.ImpresioDeToolStripMenuItem.Text = "2.Impresion de numeros en forma descendente"
         '
         'ToolStripMenuItem16
         '
         Me.ToolStripMenuItem16.Name = "ToolStripMenuItem16"
-        Me.ToolStripMenuItem16.Size = New System.Drawing.Size(316, 22)
-        Me.ToolStripMenuItem16.Text = "3."
+        Me.ToolStripMenuItem16.Size = New System.Drawing.Size(323, 22)
+        Me.ToolStripMenuItem16.Text = "3.Tabla del 7"
         '
         'SALIRToolStripMenuItem
         '
         Me.SALIRToolStripMenuItem.Name = "SALIRToolStripMenuItem"
         Me.SALIRToolStripMenuItem.Size = New System.Drawing.Size(49, 20)
         Me.SALIRToolStripMenuItem.Text = "SALIR"
+        '
+        'MULTIPLESCASOSToolStripMenuItem1
+        '
+        Me.MULTIPLESCASOSToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuDeOperacionesToolStripMenuItem1, Me.SignosDelZodiacoToolStripMenuItem1, Me.MesesToolStripMenuItem, Me.SignificadoDeUnaCalificacionToolStripMenuItem1})
+        Me.MULTIPLESCASOSToolStripMenuItem1.Name = "MULTIPLESCASOSToolStripMenuItem1"
+        Me.MULTIPLESCASOSToolStripMenuItem1.Size = New System.Drawing.Size(282, 22)
+        Me.MULTIPLESCASOSToolStripMenuItem1.Text = "MULTIPLES CASOS"
+        '
+        'MenuDeOperacionesToolStripMenuItem1
+        '
+        Me.MenuDeOperacionesToolStripMenuItem1.Name = "MenuDeOperacionesToolStripMenuItem1"
+        Me.MenuDeOperacionesToolStripMenuItem1.Size = New System.Drawing.Size(244, 22)
+        Me.MenuDeOperacionesToolStripMenuItem1.Text = "1.Menu de operaciones"
+        '
+        'SignosDelZodiacoToolStripMenuItem1
+        '
+        Me.SignosDelZodiacoToolStripMenuItem1.Name = "SignosDelZodiacoToolStripMenuItem1"
+        Me.SignosDelZodiacoToolStripMenuItem1.Size = New System.Drawing.Size(244, 22)
+        Me.SignosDelZodiacoToolStripMenuItem1.Text = "2.Signos del Zodiaco"
+        '
+        'MesesToolStripMenuItem
+        '
+        Me.MesesToolStripMenuItem.Name = "MesesToolStripMenuItem"
+        Me.MesesToolStripMenuItem.Size = New System.Drawing.Size(244, 22)
+        Me.MesesToolStripMenuItem.Text = "3.Meses"
+        '
+        'SignificadoDeUnaCalificacionToolStripMenuItem1
+        '
+        Me.SignificadoDeUnaCalificacionToolStripMenuItem1.Name = "SignificadoDeUnaCalificacionToolStripMenuItem1"
+        Me.SignificadoDeUnaCalificacionToolStripMenuItem1.Size = New System.Drawing.Size(244, 22)
+        Me.SignificadoDeUnaCalificacionToolStripMenuItem1.Text = "4.Significado de una calificacion"
         '
         'Menu
         '
@@ -297,11 +297,6 @@ Partial Class Menu
     Friend WithEvents ToolStripMenuItem7 As ToolStripMenuItem
     Friend WithEvents ToolStripMenuItem8 As ToolStripMenuItem
     Friend WithEvents ToolStripMenuItem9 As ToolStripMenuItem
-    Friend WithEvents MULTIPLESCASOSToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents MenuDeOperacionesToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents SignosDelZodiacoToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents ToolStripMenuItem10 As ToolStripMenuItem
-    Friend WithEvents SignificadoDeUnaCalificacionToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents REPETITIVOSToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ESTRUCTURAMIENTRASToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ProductoDeUnNumeroNToolStripMenuItem As ToolStripMenuItem
@@ -316,4 +311,9 @@ Partial Class Menu
     Friend WithEvents ImpresioDeToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ToolStripMenuItem16 As ToolStripMenuItem
     Friend WithEvents SALIRToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents MULTIPLESCASOSToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents MenuDeOperacionesToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents SignosDelZodiacoToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents MesesToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents SignificadoDeUnaCalificacionToolStripMenuItem1 As ToolStripMenuItem
 End Class

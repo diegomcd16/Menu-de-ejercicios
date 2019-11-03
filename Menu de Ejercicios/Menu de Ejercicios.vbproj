@@ -79,11 +79,89 @@
     <Compile Include="Algoritmo_de_dos_numeros.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Area_de_una_circunferencia.Designer.vb">
+      <DependentUpon>Area_de_una_circunferencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Area_de_una_circunferencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calculo_del_Tiempo.Designer.vb">
+      <DependentUpon>calculo_del_Tiempo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="calculo_del_Tiempo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calificaciones.Designer.vb">
+      <DependentUpon>Calificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calificaciones_estructura_anidada.Designer.vb">
+      <DependentUpon>calificaciones_estructura_anidada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="calificaciones_estructura_anidada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calificaciones_estructura_MultiplesCasos.Designer.vb">
+      <DependentUpon>calificaciones_estructura_MultiplesCasos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="calificaciones_estructura_MultiplesCasos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dos_num_en_forma_descendente.Designer.vb">
+      <DependentUpon>Dos_num_en_forma_descendente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dos_num_en_forma_descendente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="elMayor.Designer.vb">
+      <DependentUpon>elMayor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="elMayor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="meses_Estructura_Anidada.Designer.vb">
+      <DependentUpon>meses_Estructura_Anidada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="meses_Estructura_Anidada.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Menu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Menu.Designer.vb">
       <DependentUpon>Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu_de_operaciones.Designer.vb">
+      <DependentUpon>menu_de_operaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menu_de_operaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_estructura _anidada.Designer.vb">
+      <DependentUpon>Menu_estructura _anidada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_estructura _anidada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_estructura_multiplescasos.Designer.vb">
+      <DependentUpon>Menu_estructura_multiplescasos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_estructura_multiplescasos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mese_estructura_MultiplesCasos.Designer.vb">
+      <DependentUpon>mese_estructura_MultiplesCasos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mese_estructura_MultiplesCasos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mes_correspondiente.Designer.vb">
+      <DependentUpon>Mes_correspondiente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mes_correspondiente.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -101,19 +179,121 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="numero_Mayor_Menor_Igual_a_cero.Designer.vb">
+      <DependentUpon>numero_Mayor_Menor_Igual_a_cero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="numero_Mayor_Menor_Igual_a_cero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Numero_Medio.Designer.vb">
+      <DependentUpon>Numero_Medio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Numero_Medio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oeracion_con_2_numeros.Designer.vb">
+      <DependentUpon>Oeracion_con_2_numeros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Oeracion_con_2_numeros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perimetro_de_un_Terreno.Designer.vb">
+      <DependentUpon>Perimetro_de_un_Terreno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Perimetro_de_un_Terreno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signos_del_Zodiaco.Designer.vb">
+      <DependentUpon>Signos_del_Zodiaco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Signos_del_Zodiaco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SigZod_estructura_Anidada.Designer.vb">
+      <DependentUpon>SigZod_estructura_Anidada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SigZod_estructura_Anidada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SigZod_Estructura_MultiplesCasos.Designer.vb">
+      <DependentUpon>SigZod_Estructura_MultiplesCasos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SigZod_Estructura_MultiplesCasos.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Algoritmo_de_dos_numeros.resx">
       <DependentUpon>Algoritmo_de_dos_numeros.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Area_de_una_circunferencia.resx">
+      <DependentUpon>Area_de_una_circunferencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calculo_del_Tiempo.resx">
+      <DependentUpon>calculo_del_Tiempo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calificaciones.resx">
+      <DependentUpon>Calificaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calificaciones_estructura_anidada.resx">
+      <DependentUpon>calificaciones_estructura_anidada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calificaciones_estructura_MultiplesCasos.resx">
+      <DependentUpon>calificaciones_estructura_MultiplesCasos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dos_num_en_forma_descendente.resx">
+      <DependentUpon>Dos_num_en_forma_descendente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="elMayor.resx">
+      <DependentUpon>elMayor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="meses_Estructura_Anidada.resx">
+      <DependentUpon>meses_Estructura_Anidada.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu_de_operaciones.resx">
+      <DependentUpon>menu_de_operaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_estructura _anidada.resx">
+      <DependentUpon>Menu_estructura _anidada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_estructura_multiplescasos.resx">
+      <DependentUpon>Menu_estructura_multiplescasos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mese_estructura_MultiplesCasos.resx">
+      <DependentUpon>mese_estructura_MultiplesCasos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mes_correspondiente.resx">
+      <DependentUpon>Mes_correspondiente.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="numero_Mayor_Menor_Igual_a_cero.resx">
+      <DependentUpon>numero_Mayor_Menor_Igual_a_cero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Numero_Medio.resx">
+      <DependentUpon>Numero_Medio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oeracion_con_2_numeros.resx">
+      <DependentUpon>Oeracion_con_2_numeros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perimetro_de_un_Terreno.resx">
+      <DependentUpon>Perimetro_de_un_Terreno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Signos_del_Zodiaco.resx">
+      <DependentUpon>Signos_del_Zodiaco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SigZod_estructura_Anidada.resx">
+      <DependentUpon>SigZod_estructura_Anidada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SigZod_Estructura_MultiplesCasos.resx">
+      <DependentUpon>SigZod_Estructura_MultiplesCasos.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

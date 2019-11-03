@@ -37,7 +37,7 @@ Partial Class Algoritmo_de_dos_numeros
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(47, 45)
+        Me.Label1.Location = New System.Drawing.Point(12, 35)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(50, 13)
         Me.Label1.TabIndex = 0
@@ -46,7 +46,7 @@ Partial Class Algoritmo_de_dos_numeros
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(47, 102)
+        Me.Label2.Location = New System.Drawing.Point(12, 92)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(48, 13)
         Me.Label2.TabIndex = 1
@@ -54,14 +54,14 @@ Partial Class Algoritmo_de_dos_numeros
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(142, 45)
+        Me.TextBox1.Location = New System.Drawing.Point(107, 35)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 20)
         Me.TextBox1.TabIndex = 2
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(142, 102)
+        Me.TextBox2.Location = New System.Drawing.Point(107, 92)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(100, 20)
         Me.TextBox2.TabIndex = 3
@@ -69,7 +69,7 @@ Partial Class Algoritmo_de_dos_numeros
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(444, 48)
+        Me.Label3.Location = New System.Drawing.Point(270, 38)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(32, 13)
         Me.Label3.TabIndex = 4
@@ -78,7 +78,7 @@ Partial Class Algoritmo_de_dos_numeros
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(444, 102)
+        Me.Label4.Location = New System.Drawing.Point(270, 92)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(70, 13)
         Me.Label4.TabIndex = 5
@@ -86,21 +86,21 @@ Partial Class Algoritmo_de_dos_numeros
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(561, 105)
+        Me.TextBox3.Location = New System.Drawing.Point(387, 95)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(100, 20)
         Me.TextBox3.TabIndex = 7
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(561, 48)
+        Me.TextBox4.Location = New System.Drawing.Point(387, 38)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(100, 20)
         Me.TextBox4.TabIndex = 6
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(273, 181)
+        Me.Button1.Location = New System.Drawing.Point(197, 170)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 8
@@ -109,7 +109,7 @@ Partial Class Algoritmo_de_dos_numeros
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(273, 225)
+        Me.Button2.Location = New System.Drawing.Point(197, 214)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 9
@@ -120,7 +120,7 @@ Partial Class Algoritmo_de_dos_numeros
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(514, 243)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox3)
