@@ -58,3 +58,35 @@ C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercici
 C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Calificaciones.resources
 C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calificaciones_estructura_anidada.resources
 C:\Users\ogeid\Documents\repositorios\DiegoJadan_CortesD-Grupo2\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calificaciones_estructura_MultiplesCasos.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe.config
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.exe
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.pdb
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\bin\Debug\Menu de Ejercicios.xml
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbprojResolveAssemblyReference.cache
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Algoritmo_de_dos_numeros.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Area_de_una_circunferencia.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calculo_del_Tiempo.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Calificaciones.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calificaciones_estructura_anidada.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.calificaciones_estructura_MultiplesCasos.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Dos_num_en_forma_descendente.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.elMayor.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.meses_Estructura_Anidada.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.menu_de_operaciones.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu_estructura__anidada.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Menu_estructura_multiplescasos.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.mese_estructura_MultiplesCasos.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Mes_correspondiente.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Resources.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.numero_Mayor_Menor_Igual_a_cero.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Numero_Medio.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Oeracion_con_2_numeros.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Perimetro_de_un_Terreno.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.Signos_del_Zodiaco.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.SigZod_estructura_Anidada.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu_de_Ejercicios.SigZod_Estructura_MultiplesCasos.resources
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.vbproj.GenerateResource.Cache
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.exe
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.xml
+D:\REPOSITORIOS\Menu-de-ejercicios\Menu de Ejercicios\obj\Debug\Menu de Ejercicios.pdb

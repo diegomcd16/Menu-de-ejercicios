@@ -11,8 +11,8 @@
         num2 = TextBox2.Text
         suma = num1 + num2
         mult = num1 * num2
-        TextBox3.Text = suma
-        TextBox4.Text = mult
+        TextBox3.Text = mult
+        TextBox4.Text = suma
 
 
 
